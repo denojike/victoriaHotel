@@ -3,8 +3,20 @@
   padding: 0;
   box-sizing: border-box;
 }
-:root {
+/* :root {
   --primaryColor: #af9a7d;
+  --mainWhite: #fff;
+  --offWhite: #f7f7f7;
+  --mainBlack: #222;
+  --mainGrey: #ececec;
+  --darkGrey: #cfcfcf;
+  --mainTransition: all 0.3s linear;
+  --mainSpacing: 3px;
+  --lightShadow: 2px 5px 3px 0px rgba(0, 0, 0, 0.5);
+  --darkShadow: 4px 10px 5px 0px rgba(0, 0, 0, 0.5);
+} */
+:root {
+  --primaryColor: #d2ab4f;
   --mainWhite: #fff;
   --offWhite: #f7f7f7;
   --mainBlack: #222;
@@ -144,6 +156,10 @@ h6 {
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
+<<<<<<< HEAD
+=======
+    align-items: center;
+>>>>>>> vic2
   }
   .nav-links {
     height: auto;
