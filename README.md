@@ -1,4 +1,4 @@
-# VICTORIALHOTEL
+## VICTORIALHOTEL
 
 A hotel reservation web application based on reactjs.
 
